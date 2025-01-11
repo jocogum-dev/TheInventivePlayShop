@@ -50,7 +50,7 @@ This project is built using ASP.NET Core. With this, your device should have a .
 
 ## Roadmap
 - [X] Create Initial Structure
-- [ ] Add Details / Descriptions / Assets
+- [X] Add Details / Descriptions / Assets
 - [ ] Deploy to Production
     - [ ] Website URL
 
